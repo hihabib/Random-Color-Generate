@@ -10,6 +10,8 @@ body,html {
     justify-content: center;
     align-items: center;
     height: 100dvh;
+    flex-direction: column;
+    gap: 30px
 }
 .changeColor {
     padding: 20px 40px;
